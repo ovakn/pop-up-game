@@ -21,6 +21,7 @@ mvn exec:java -Dexec.mainClass="com.example.Main"\
 ## Запуск клиента
 Также открыть папку клиента, затем:\
 npm install\
-npm run dev\
+npm run dev
+
 
 <b>Игра запущена и может быть открыта в браузере по адресу http://localhost:3000/</b>
